@@ -1,1 +1,11 @@
-/Test.sln
+.DS_Store
+.vscode/
+/backup/
+.idea/
+/uploads/
+appsettings.Development.json
+obj/
+bin/
+.vs
+.suo
+*.db
